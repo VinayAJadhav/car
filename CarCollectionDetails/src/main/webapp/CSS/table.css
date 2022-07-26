@@ -1,0 +1,24 @@
+
+table{
+    border: 2px solid black;
+    margin-left: 0px;
+    border-color: brown;
+    border-collapse: collapse;
+   /* border-radius: 150px; */
+   
+    
+}
+th,td{
+    border: 2px solid black; 
+
+    text-align: left;
+    padding: 8px;
+    
+    /* border-radius: 15px; */
+}
+th{
+    background-color:lightsalmon;
+}
+td{
+    background-color:antiquewhite;
+}
