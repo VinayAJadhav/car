@@ -3,7 +3,7 @@
   <display-name>CarCollectionDetails</display-name>
   
   <welcome-file-list>
-          <welcome-file>car.html</welcome-file>
+          <welcome-file>index.html</welcome-file>
   </welcome-file-list>
   
   
